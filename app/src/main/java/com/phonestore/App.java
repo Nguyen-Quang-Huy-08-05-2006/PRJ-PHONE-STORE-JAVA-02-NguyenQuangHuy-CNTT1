@@ -1,0 +1,9 @@
+package com.phonestore;
+
+import com.phonestore.presentation.MainMenu;
+
+public class App {
+    public static void main(String[] args) {
+        MainMenu.menu();
+    }
+}
